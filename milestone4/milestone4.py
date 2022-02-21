@@ -82,3 +82,10 @@ def findvm():
 creds()
 sessioninfo()
 findvm()
+
+'''
+Most of the code seen here was sourced from sample scripts found on github
+Some of the session info funtions was sourced from here: https://github.com/vmware/pyvmomi-community-samples/blob/master/samples/sessions_list.py
+Most of the print vm function and find vm funciton were sorced from here: https://github.com/vmware/pyvmomi-community-samples/blob/master/samples/getallvms.py
+The code here was essentially taken out and watered down, then added to if needed.
+'''
